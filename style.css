@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+
+}
+
+body {
+    color: white;
+    background-color: rgb(26, 29, 39);
+}
+
+div {
+    display: block;
+}
+
+img {
+    background-color: azure;
+}
