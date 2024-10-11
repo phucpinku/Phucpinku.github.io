@@ -5,13 +5,29 @@ h1 {
 
 body {
     color: white;
-    background-color: rgb(26, 29, 39);
+    background-color: rgb(35, 39, 52);
 }
 
 div {
     display: block;
 }
 
+div.artifact {
+    display: block;
+}
+
 img {
     background-color: azure;
+}
+
+.banner {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
 }
